@@ -1,0 +1,27 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css"> .title-font {
+  font-family: Oswald;
+}
+
+.background {
+  background-color: #d6d6c2;
+  border-radius: 25px;
+  padding: 15px;
+}
+
+.page-background {
+  background-color: #f5f5f0
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+.IMG-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+div {
+  padding: 10px;
+}
